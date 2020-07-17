@@ -62,10 +62,8 @@ function brickCalculator(floor) {
     }
 }
 
-var output = brickCalculator(0);
+var output = brickCalculator(45);
 console.log('Total brick required :', output);
-
-
 
 
 
